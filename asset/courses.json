@@ -1,0 +1,354 @@
+[
+  {
+    "id": "C101",
+    "title": "Advanced UI/UX with Flutter",
+    "author": "Prof.Mary Nyandia",
+    "description": "Master custom widgets, implicit animations, and responsive design patterns in Flutter.",
+    "category": "Development",
+    "progress": 0.6,
+    "isCertified": false,
+    "rating": 4.7,
+    "materials": [
+      { "title": "Introduction to Custom Painters", "isCompleted": true },
+      { "title": "Implicit Animations Deep Dive", "isCompleted": true },
+      { "title": "Building Responsive Layouts", "isCompleted": false },
+      { "title": "State Management with Provider", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C102",
+    "title": "Data Science with Python",
+    "author": "Sir.Benedict Okang",
+    "description": "A comprehensive guide to data cleaning, analysis, and visualization using Python and Pandas.",
+    "category": "Data Science",
+    "progress": 1.0,
+    "isCertified": true,
+    "rating": 4.9,
+    "materials": [
+      { "title": "Setting up the Environment", "isCompleted": true },
+      { "title": "Pandas for Data Manipulation", "isCompleted": true },
+      { "title": "Data Visualization with Matplotlib", "isCompleted": true },
+      { "title": "Introduction to Machine Learning", "isCompleted": true }
+    ]
+  },
+  {
+    "id": "C103",
+    "title": "Digital Marketing Fundamentals",
+    "author": "Dr.Antonina Obillo",
+    "description": "Learn the essentials of SEO, SEM, and social media strategy.",
+    "category": "Business",
+    "progress": 0.2,
+    "isCertified": false,
+    "rating": 4.2,
+    "materials": [
+      { "title": "What is Digital Marketing?", "isCompleted": true },
+      { "title": "SEO Basics", "isCompleted": false },
+      { "title": "Creating Ad Campaigns", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C104",
+    "title": "7 Fundamental Recipes of Success",
+    "author": "Business Mogul Enock",
+    "description": "How to transform your life from rags to riches using 7 tried and tested principles of success.",
+    "category": "Business",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 5.0,
+    "materials": [
+      { "title": "My Life in the Slums of Nairobi", "isCompleted": false },
+      { "title": "How I Overcame Poverty Mentality", "isCompleted": false },
+      { "title": "Climbing the Ladder of Success", "isCompleted": false },
+      { "title": "7 Lessons that became 7 Recipes of Success", "isCompleted": false },
+      { "title": "How You Can Apply the 7 Principles as a Recipe to Your Success", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C105",
+    "title": "Design Thinking for Innovation",
+    "author": "Ms. Zainab Muthoni",
+    "description": "Learn how to solve complex problems creatively using design thinking frameworks.",
+    "category": "Design",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.6,
+    "materials": [
+      { "title": "Empathize with Users", "isCompleted": false },
+      { "title": "Define the Problem", "isCompleted": false },
+      { "title": "Ideate Solutions", "isCompleted": false },
+      { "title": "Prototype and Test", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C106",
+    "title": "Mastering Figma for UI Design",
+    "author": "Mr. Kelvin Otieno",
+    "description": "A hands-on guide to designing beautiful and responsive interfaces using Figma.",
+    "category": "Design",
+    "progress": 0.4,
+    "isCertified": false,
+    "rating": 4.8,
+    "materials": [
+      { "title": "Figma Basics", "isCompleted": true },
+      { "title": "Auto Layouts", "isCompleted": true },
+      { "title": "Interactive Prototypes", "isCompleted": false },
+      { "title": "Design Systems", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C107",
+    "title": "Social Media Strategy 101",
+    "author": "Ms. Brenda Wanjiku",
+    "description": "Build a winning social media presence across platforms like Instagram, TikTok, and LinkedIn.",
+    "category": "Marketing",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.3,
+    "materials": [
+      { "title": "Platform Overview", "isCompleted": false },
+      { "title": "Content Planning", "isCompleted": false },
+      { "title": "Engagement Tactics", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C108",
+    "title": "Email Marketing Masterclass",
+    "author": "Mr. Daniel Mwangi",
+    "description": "Learn how to craft compelling email campaigns that convert leads into customers.",
+    "category": "Marketing",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.5,
+    "materials": [
+      { "title": "Building Your List", "isCompleted": false },
+      { "title": "Writing Effective Emails", "isCompleted": false },
+      { "title": "Automation and Funnels", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C201",
+    "title": "Flutter State Management Mastery",
+    "author": "Eng. Faith Mumo",
+    "description": "Explore Provider, Riverpod, and Bloc to manage complex app states in Flutter.",
+    "category": "Development",
+    "progress": 0.3,
+    "isCertified": false,
+    "rating": 4.6,
+    "materials": [
+      { "title": "Understanding State", "isCompleted": true },
+      { "title": "Provider Basics", "isCompleted": false },
+      { "title": "Bloc Architecture", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C202",
+    "title": "Building REST APIs with FastAPI",
+    "author": "Mr. Brian Karanja",
+    "description": "Learn to build scalable Python APIs using FastAPI and PostgreSQL.",
+    "category": "Development",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.8,
+    "materials": [
+      { "title": "FastAPI Setup", "isCompleted": false },
+      { "title": "Routing and Models", "isCompleted": false },
+      { "title": "Database Integration", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C203",
+    "title": "Cross-Platform Apps with Flutter & Firebase",
+    "author": "Ms. Cynthia Wambua",
+    "description": "Integrate Firebase Auth, Firestore, and Storage into your Flutter apps.",
+    "category": "Development",
+    "progress": 0.7,
+    "isCertified": true,
+    "rating": 4.9,
+    "materials": [
+      { "title": "Firebase Setup", "isCompleted": true },
+      { "title": "Authentication", "isCompleted": true },
+      { "title": "Firestore Basics", "isCompleted": false },
+      { "title": "Cloud Storage", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C204",
+    "title": "Data Analysis with Pandas",
+    "author": "Dr. Felix Otieno",
+    "description": "Clean, manipulate, and analyze datasets using Python and Pandas.",
+    "category": "Data Science",
+    "progress": 0.5,
+    "isCertified": false,
+    "rating": 4.5,
+    "materials": [
+      { "title": "DataFrames and Series", "isCompleted": true },
+      { "title": "Filtering and Grouping", "isCompleted": false },
+      { "title": "Merging Datasets", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C205",
+    "title": "Machine Learning with Scikit-Learn",
+    "author": "Prof. Grace Mwikali",
+    "description": "Build predictive models using regression, classification, and clustering.",
+    "category": "Data Science",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.7,
+    "materials": [
+      { "title": "ML Concepts", "isCompleted": false },
+      { "title": "Model Training", "isCompleted": false },
+      { "title": "Evaluation Metrics", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C206",
+    "title": "Data Visualization with Python",
+    "author": "Mr. Kevin Oloo",
+    "description": "Create stunning charts and dashboards using Matplotlib and Seaborn.",
+    "category": "Data Science",
+    "progress": 1.0,
+    "isCertified": true,
+    "rating": 4.8,
+    "materials": [
+      { "title": "Matplotlib Basics", "isCompleted": true },
+      { "title": "Seaborn Styling", "isCompleted": true },
+      { "title": "Interactive Dashboards", "isCompleted": true }
+    ]
+  },
+  {
+    "id": "C207",
+    "title": "Entrepreneurship Essentials",
+    "author": "Dr. Mercy Ndegwa",
+    "description": "Learn how to start, fund, and grow your business idea from scratch.",
+    "category": "Business",
+    "progress": 0.1,
+    "isCertified": false,
+    "rating": 4.4,
+    "materials": [
+      { "title": "Business Models", "isCompleted": false },
+      { "title": "Funding Strategies", "isCompleted": false },
+      { "title": "Scaling Operations", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C208",
+    "title": "Financial Literacy for Creators",
+    "author": "CPA. Dennis Kiptoo",
+    "description": "Master budgeting, saving, and investing as a freelancer or entrepreneur.",
+    "category": "Business",
+    "progress": 0.6,
+    "isCertified": false,
+    "rating": 4.3,
+    "materials": [
+      { "title": "Budgeting Basics", "isCompleted": true },
+      { "title": "Smart Saving", "isCompleted": true },
+      { "title": "Intro to Investing", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C209",
+    "title": "Leadership and Team Building",
+    "author": "Coach Enock Muli",
+    "description": "Develop leadership skills and build high-performing teams.",
+    "category": "Business",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.6,
+    "materials": [
+      { "title": "Leadership Styles", "isCompleted": false },
+      { "title": "Motivating Teams", "isCompleted": false },
+      { "title": "Conflict Resolution", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C210",
+    "title": "UI Design Principles",
+    "author": "Ms. Sharon Achieng",
+    "description": "Learn layout, spacing, typography, and color theory for beautiful interfaces.",
+    "category": "Design",
+    "progress": 0.2,
+    "isCertified": false,
+    "rating": 4.5,
+    "materials": [
+      { "title": "Typography", "isCompleted": false },
+      { "title": "Color Theory", "isCompleted": false },
+      { "title": "Layout Grids", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C211",
+    "title": "Design Systems in Figma",
+    "author": "Mr. Collins Muriuki",
+    "description": "Create scalable design systems using components, styles, and tokens.",
+    "category": "Design",
+    "progress": 0.9,
+    "isCertified": true,
+    "rating": 4.9,
+    "materials": [
+      { "title": "Component Libraries", "isCompleted": true },
+      { "title": "Tokens and Variables", "isCompleted": true },
+      { "title": "System Governance", "isCompleted": true }
+    ]
+  },
+  {
+    "id": "C212",
+    "title": "Portfolio Design for Freelancers",
+    "author": "Ms. Ivy Njeri",
+    "description": "Build a stunning portfolio that attracts clients and showcases your skills.",
+    "category": "Design",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.2,
+    "materials": [
+      { "title": "Portfolio Structure", "isCompleted": false },
+      { "title": "Case Studies", "isCompleted": false },
+      { "title": "Client Testimonials", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C213",
+    "title": "Digital Ads Strategy",
+    "author": "Mr. Alex Muthama",
+    "description": "Plan and execute high-converting ad campaigns on Google and Meta.",
+    "category": "Marketing",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.4,
+    "materials": [
+      { "title": "Ad Platforms Overview", "isCompleted": false },
+      { "title": "Targeting & Budgeting", "isCompleted": false },
+      { "title": "Performance Tracking", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C214",
+    "title": "Content Marketing Strategy",
+    "author": "Ms. Ruth Wambua",
+    "description": "Create content that builds trust, drives traffic, and converts leads.",
+    "category": "Marketing",
+    "progress": 0.5,
+    "isCertified": false,
+    "rating": 4.7,
+    "materials": [
+      { "title": "Content Planning", "isCompleted": true },
+      { "title": "SEO Optimization", "isCompleted": false },
+      { "title": "Repurposing Content", "isCompleted": false }
+    ]
+  },
+  {
+    "id": "C215",
+    "title": "Analytics for Marketers",
+    "author": "Mr. Samuel Karanja",
+    "description": "Use Google Analytics and social media insights to measure and improve your marketing efforts.",
+    "category": "Marketing",
+    "progress": 0.0,
+    "isCertified": false,
+    "rating": 4.6,
+    "materials": [
+      { "title": "Google Analytics Basics", "isCompleted": false },
+      { "title": "Social Media Metrics", "isCompleted": false },
+      { "title": "Data-Driven Decisions", "isCompleted": false }
+    ]
+  }
+]
