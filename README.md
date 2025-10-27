@@ -1,16 +1,32 @@
-# excelerate_my_learning
+# 📱 Excelerate My Learning App
 
-High-performance, modern, cross-platform digital learning environment.
+A Flutter-based mobile application designed to streamline user onboarding and course discovery. This project integrates local storage, user authentication, and dynamic course rendering from JSON data.
 
-## Getting Started
+## 🚀 Features Added
 
-This project is a starting point for a Flutter application.
+### 🔐 Authentication (Week 2)
+- **Login and Signup Screens**: Located under the `authentication/` directory.
+- Enables new users to register and existing users to log in securely.
 
-A few resources to get you started if this is your first Flutter project:
+### 📚 Course Management
+- **Course Listing and Description**: Dynamically rendered from a local JSON file.
+- Provides users with a structured overview of available courses.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🧠 Smart Entry Logic
+- **Entry Screen**: Determines whether a user is new or returning.
+- Redirects users accordingly to onboarding or home screens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🗂️ Key Files and Modules
+
+| File/Module       | Purpose                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| `user_storage.dart` | Stores user data for login and signup persistence.                     |
+| `course_loader.dart` | Loads course data from local JSON for display.                         |
+| `local_storage.dart` | Handles device-level data persistence using shared preferences or similar. |
+| `entry_screen.dart`  | Checks user status and routes them to the appropriate screen.          |
+
+## 🛠️ Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/excelerate.git
